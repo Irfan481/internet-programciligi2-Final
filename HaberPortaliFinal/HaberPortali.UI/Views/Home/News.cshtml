@@ -1,0 +1,244 @@
+﻿<div class="row">
+    <div class="col-md-8">
+        <h4>Haberler</h4>
+        <a href="/Categories" class="text-decoration-none text-dark fs-5">← Kategorilere Geri Dön</a> | <span id="catName"></span>
+        <table class="table table-hover" id="tbNewsList">
+            <thead class="table-primary">
+                <tr>
+                    <th>Id</th>
+                    <th>Adı</th>
+                    <th>Sayfa Sayısı</th>
+                    <th>Durumu</th>
+                    <th>Kayıt T.</th>
+                    <th>Düzenleme T.</th>
+                    <th id="Islemler">İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <div class="col-md-4" id="divAddUpdate">
+        <h4 id="editHeader">Haber Ekle</h4>
+        <div class="mb-3">
+            <label for="txtName" class="form-label">Haber Adı</label>
+            <input type="text" class="form-control" id="txtName" placeholder="Haber adını giriniz" />
+            <input type="hidden" id="txtId" />
+        </div>
+        <div class="mb-3">
+            <label for="txtPage" class="form-label">Haber Sayfa Sayısı</label>
+            <input type="text" class="form-control" id="txtPage" placeholder="Haber sayfa sayısı giriniz" />
+        </div>
+        <div class="mb-3">
+            <label for="cbCategory" class="form-label">Haber Kategori</label>
+            <select class="form-select" id="cbCategory"></select>
+        </div>
+        <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="cbIsActive" />
+            <label class="form-check-label" for="cbIsActive">Aktif</label>
+        </div>
+        <div class="mb-3">
+            <button class="btn btn-outline-primary btn-sm me-2" id="btnSave">Kaydet</button>
+            <button class="btn btn-outline-primary btn-sm me-2" id="btnEdit">Düzenle</button>
+            <button class="btn btn-outline-danger btn-sm me-2" id="btnDelete">Sil</button>
+            <button class="btn btn-outline-secondary btn-sm" id="btnCancel">Vazgeç</button>
+        </div>
+        <div id="result"></div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var ApiBaseUrl = "@ViewBag.ApiBaseUrl";
+            var catId = "@ViewBag.CatId";
+            NewsList();
+            CategoriList();
+            CategoryById();
+            $("#btnEdit").hide();
+            $("#btnDelete").hide();
+
+            function CategoriList() {
+                $.ajax({
+                    url: ApiBaseUrl + "Categories",
+                    method: "GET",
+                    contentType: "application/json",
+                    success: function (data) {
+                        var opt = "";
+                        $("#cbCategory").empty();
+                        $.each(data, function (i, item) {
+                            opt = catId == item.id ?
+                                '<option value="' + item.id + '" selected>' + item.name + '</option>' :
+                                '<option value="' + item.id + '">' + item.name + '</option>';
+                            $("#cbCategory").append(opt);
+                        });
+                    },
+                    error: function () { }
+                });
+            }
+
+            function CategoryById() {
+                $.ajax({
+                    url: ApiBaseUrl + "Categories/" + catId,
+                    method: "GET",
+                    contentType: "application/json",
+                    success: function (data) {
+                        $("#catName").html("<b>" + data.name + "<b>");
+                    },
+                    error: function () { }
+                });
+            }
+
+            function NewsList() {
+                $.ajax({
+                    url: ApiBaseUrl + "Categories/" + catId + "/News",
+                    method: "GET",
+                    contentType: "application/json",
+                    success: function (data) {
+                        NewsListToTable(data);
+                    },
+                    error: function () { }
+                });
+            }
+
+            function NewsListToTable(data) {
+                $("#tbNewsList tbody").empty();
+                var tr = '';
+                $.each(data, function (i, item) {
+                    var bg = item.isActive ? 'bg-success' : 'bg-danger';
+                    tr += `<tr>
+                                            <td>${item.id}</td>
+                                            <td>${item.name}</td>
+                                            <td>${item.page}</td>
+                                            <td><span class="badge ${bg}">${item.isActive ? 'Aktif' : 'Pasif'}</span></td>
+                                            <td>${FormatDate(item.created)}</td>
+                                            <td>${FormatDate(item.updated)}</td>
+                                            <td><button class="btn btn-outline-primary btn-sm edit" id="${item.id}">Düzenle</button></td>
+                                           </tr>`;
+                });
+
+                $("#tbNewsList tbody").append(tr);
+
+                if (!userRoles.includes("Admin")) {
+                    $("#divAddUpdate").hide();
+                    $("#Islemler").hide();
+                    $("#divList").removeClass("col-md-8").addClass("col-md-12");
+                    $(".edit").hide();
+                }
+            }
+
+            function FormatDate(d) {
+                var date = new Date(d);
+                var day = date.getDate().toString().padStart(2, '0');
+                var month = (date.getMonth() + 1).toString().padStart(2, '0');
+                var year = date.getFullYear();
+                var hour = date.getHours().toString().padStart(2, '0');
+                var minute = date.getMinutes().toString().padStart(2, '0');
+                var second = date.getSeconds().toString().padStart(2, '0');
+                return `${day}.${month}.${year} ${hour}:${minute}:${second}`;
+            }
+            $("#btnSave").click(function () {
+                var name = $("#txtName").val();
+                var page = $("#txtPage").val();
+                var categoryId = $("#cbCategory").val();
+                var isActive = $("#cbIsActive").is(":checked");
+                var news = { Name: name, Page: page, CategoryId: categoryId, IsActive: isActive };
+
+                $.ajax({
+                    url: ApiBaseUrl + "News",
+                    method: "POST",
+                    data: JSON.stringify(news),
+                    contentType: "application/json",
+                    success: function (data) {
+                        showMessage(data.status, data.message);
+                        if (data.status) {
+                            NewsList();
+                        }
+                    },
+                    error: function () { }
+                });
+            });
+
+            $(document).on("click", ".edit", function () {
+                var id = $(this).attr("id");
+                $.ajax({
+                    url: ApiBaseUrl + "News/" + id,
+                    method: "GET",
+                    contentType: "application/json",
+                    success: function (data) {
+                        $("#txtId").val(data.id);
+                        $("#txtName").val(data.name);
+                        $("#txtPage").val(data.page);
+                        $("#cbCategory").val(data.categoryId);
+                        $("#cbIsActive").prop("checked", data.isActive);
+                        $("#btnEdit").show();
+                        $("#btnDelete").show();
+                        $("#btnSave").hide();
+                        $("#editHeader").html("Ürün Düzenle - Sil");
+                    },
+                    error: function () { }
+                });
+            });
+
+            $("#btnCancel").click(function () {
+                resetForm();
+            });
+
+            $("#btnEdit").click(function () {
+                var id = $("#txtId").val();
+                var name = $("#txtName").val();
+                var page = $("#txtPage").val();
+                var categoryId = $("#cbCategory").val();
+                var isActive = $("#cbIsActive").is(":checked");
+                var news = { Id: id, Name: name, Page: page, CategoryId: categoryId, IsActive: isActive };
+
+                $.ajax({
+                    url: ApiBaseUrl + "News",
+                    method: "PUT",
+                    data: JSON.stringify(news),
+                    contentType: "application/json",
+                    success: function (data) {
+                        showMessage(data.status, data.message);
+                        if (data.status) {
+                            NewsList();
+                        }
+                    },
+                    error: function () { }
+                });
+            });
+
+            $("#btnDelete").click(function () {
+                var id = $("#txtId").val();
+                $.ajax({
+                    url: ApiBaseUrl + "News/" + id,
+                    method: "DELETE",
+                    contentType: "application/json",
+                    success: function (data) {
+                        showMessage(data.status, data.message);
+                        if (data.status) {
+                            NewsList();
+                        }
+                    },
+                    error: function () { }
+                });
+            });
+
+            function resetForm() {
+                $("#txtId").val("");
+                $("#txtName").val("");
+                $("#txtPage").val("");
+                $("#cbIsActive").prop("checked", false);
+                $("#btnEdit").hide();
+                $("#btnDelete").hide();
+                $("#btnSave").show();
+                $("#editHeader").html("Ürün Ekle");
+            }
+
+            function showMessage(status, message) {
+                $("#result").show();
+                $("#result").removeClass().addClass(`alert alert-${status ? 'success' : 'danger'}`);
+                $("#result").html(message).fadeOut(3000);
+            }
+        });
+    </script>
+}

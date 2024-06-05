@@ -1,0 +1,199 @@
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\appsettings.json
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\HaberPortali.exe
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\HaberPortali.deps.json
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\HaberPortali.runtimeconfig.json
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\HaberPortali.pdb
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.AssemblyReference.cache
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.AssemblyInfoInputs.cache
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.AssemblyInfo.cs
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.CoreCompileInputs.cache
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.HaberPortali.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.build.HaberPortali.props
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HaberPortali.props
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HaberPortali.props
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\scopedcss\bundle\HaberPortali.styles.css
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.CopyComplete
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\refint\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.pdb
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\HaberPortali.genruntimeconfig.cache
+C:\Users\onur\OneDrive\Masaüstü\int2\HaberPortali\obj\Debug\net7.0\ref\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\appsettings.json
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\HaberPortali.exe
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\HaberPortali.deps.json
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\HaberPortali.runtimeconfig.json
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\HaberPortali.pdb
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.AssemblyReference.cache
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.AssemblyInfoInputs.cache
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.AssemblyInfo.cs
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.CoreCompileInputs.cache
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.HaberPortali.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.build.HaberPortali.props
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HaberPortali.props
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HaberPortali.props
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\scopedcss\bundle\HaberPortali.styles.css
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.CopyComplete
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\refint\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.pdb
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\HaberPortali.genruntimeconfig.cache
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\obj\Debug\net7.0\ref\HaberPortali.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Humanizer.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\onur\OneDrive\Masaüstü\int-2-vize\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\appsettings.json
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\HaberPortali.exe
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\HaberPortali.deps.json
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\HaberPortali.runtimeconfig.json
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\HaberPortali.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\HaberPortali.pdb
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Humanizer.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.AssemblyReference.cache
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.AssemblyInfoInputs.cache
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.AssemblyInfo.cs
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.csproj.CoreCompileInputs.cache
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.HaberPortali.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.build.HaberPortali.props
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HaberPortali.props
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HaberPortali.props
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\scopedcss\bundle\HaberPortali.styles.css
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPor.06E6A225.Up2Date
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\refint\HaberPortali.dll
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.pdb
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\HaberPortali.genruntimeconfig.cache
+C:\Users\İRFAN ÇAKMAK\Desktop\irfan\HaberPortali\obj\Debug\net7.0\ref\HaberPortali.dll

@@ -1,0 +1,88 @@
+﻿@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="row mt-5 justify-content-center">
+    <div class="col-md-6 col-lg-4">
+        <div class="card mb-4 shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h3 class="mb-0">Oturum Aç</h3>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label for="txtUserName" class="form-label">Kullanıcı Adı</label>
+                    <input type="text" class="form-control" id="txtUserName" placeholder="Kullanıcı adınızı giriniz" />
+                </div>
+                <div class="mb-3">
+                    <label for="txtPassword" class="form-label">Parola</label>
+                    <input type="password" class="form-control" id="txtPassword" placeholder="Parolanızı giriniz" />
+                </div>
+            </div>
+            <div class="card-footer text-end">
+                <button class="btn btn-primary" id="btnLogin">Oturum Aç</button>
+            </div>
+        </div>
+        <div id="result"></div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            var ApiBaseUrl = "@ViewBag.ApiBaseUrl";
+
+            $("#btnLogin").click(function () {
+                var userName = $("#txtUserName").val();
+                var password = $("#txtPassword").val();
+                var loginData = {
+                    UserName: userName,
+                    Password: password
+                };
+
+                $.ajax({
+                    url: ApiBaseUrl + "User/SignIn",
+                    method: "POST",
+                    data: JSON.stringify(loginData),
+                    contentType: "application/json",
+                    success: function (data) {
+                        if (data.status) {
+                            localStorage.setItem("token", data.message);
+                            location.href = "/Categories";
+                        } else {
+                            $("#result")
+                                .show()
+                                .removeClass()
+                                .addClass("alert alert-danger")
+                                .html(data.message)
+                                .fadeOut(3000);
+                        }
+                    },
+                    error: function (e) {
+                        console.log(e);
+                    }
+                });
+            });
+        });
+    </script>
+    <style>
+        .btn-primary:hover {
+            background-color: white;
+            color: #007bff;
+            border-color: #007bff;
+        }
+
+        .card {
+            border-radius: 10px;
+        }
+
+        .card-header {
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+
+        .card-footer {
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+        }
+    </style>
+}
